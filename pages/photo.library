@@ -1,0 +1,8 @@
+<template>
+ <div>
+  <h1>Photo Library</h1>
+   <NLink to="/">
+   Top Page
+   </NLink>
+ </div>
+</template>
