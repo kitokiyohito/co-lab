@@ -1,6 +1,6 @@
 <template>
  <div>
-  <h1>ようこそco-labへ</h1>
+  <h1>ようこそ</h1>
   <NLink to="/about">
    About Page
   <NLink>
